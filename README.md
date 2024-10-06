@@ -1,1 +1,1 @@
-# This Project will give basic understanding of Machine Learning Basics
+# This Project will give basic understanding of Machine Learning Concepts
